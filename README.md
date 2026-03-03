@@ -1,4 +1,4 @@
-# PowerBi Projects
+# POWERBI PROJECTS
 
  These projects were executed using PowerBi
 
