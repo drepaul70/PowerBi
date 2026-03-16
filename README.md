@@ -18,7 +18,7 @@ This Soft Drink Market Insights Analysis Dashboard provides a comprehensive over
  ## OVERVIEW
 This Product Sales Analysis Dashboard tracks $34.47M in total revenue from 178K orders, showing a minor year-over-year increase of 0.03%. High-end electronics lead the market, with the MacBook Pro ($8M) and iPhone ($4.8M) serving as the top revenue generators.
 
-## -- [CLICK HERE TO OPEN DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiN2VhNzZiNjYtNDQ3ZC00NmYxLWIwMmQtZWYwMzUwZWQ5M2I4IiwidCI6ImM1ZGU2M2I2LTRiMGQtNGQ5Ny04ODM0LWRhMmEwZGNlNWIyOCJ9)
+## -- [CLICK HERE TO OPEN DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYjczOGI4ZGQtZTZjOS00OTk1LTk4M2MtMDFjNGZkMzk0OGQ5IiwidCI6ImM1ZGU2M2I2LTRiMGQtNGQ5Ny04ODM0LWRhMmEwZGNlNWIyOCJ9)
 
 ## 4. HEALTHCARE ANALYSIS DASHBOARD
 ## OVERVIEW
